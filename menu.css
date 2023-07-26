@@ -1,0 +1,74 @@
+body{
+    background-image: url('bg.png');
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+.rice{
+    margin-bottom: 0px;
+    padding-left: 100px;
+    color: rgb(122, 125, 213);
+    font-family: 'Allura', cursive;
+    font-size: 200px;
+}
+
+.bowl{
+    padding-left: 20px;
+    color: rgb(121, 121, 121);
+    font-size: 54px;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+.para{
+    color: gray;
+    font-family: 'Barlow Condensed', sans-serif;
+    text-align: justify;
+    font-size: large;
+    margin-left: 30px;
+    width: 40%;
+}
+
+.div{
+    
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    margin-left: 30px;
+    display: inline;
+    background: rgb(211, 110, 110);
+}
+
+.div:hover {
+    background-color: rgb(202, 63, 63);
+}
+
+.a{
+    
+    text-decoration: none;
+    color: aliceblue;
+}
+
+
+
+
+
+
+/* 
+.h1{
+    margin-left: 40px;
+    margin-top: 20px;
+    border-radius: 20px;
+   
+    margin-left: 30px;
+    display: inline;
+    background-color: brown;
+}
+
+.a{
+    font-size: 20px;
+    text-decoration: none;
+    color: aliceblue;
+} */
+
